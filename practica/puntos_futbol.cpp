@@ -6,6 +6,7 @@ int main(){
     // se declara el total de partidos como un valor constante
 	const int totalPartidos = 20;
 	string continuar;
+	
     //hacemos uso de un bucle do while para seguir calculando en caso el usuario lo requiera
 	do{
         //solicitamos los datos 
